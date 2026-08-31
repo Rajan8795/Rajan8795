@@ -136,7 +136,7 @@
 
 <br>
 
-<img src="assets/apcsip-internship.jpg" width="90%" alt="APCSIP 2026 Internship Certificate and ID Card"/>
+<img src="apcsip-internship.jpg" width="90%" alt="APCSIP 2026 Internship Certificate and ID Card"/>
 
 
 </td>
@@ -166,9 +166,7 @@
 
 <br>
 
-<img src="assets/flaghunter-certificate.jpg" width="100%" alt="Flag Hunter 2.1 CTF Certificate"/>
-
-<img src="assets/ctf-badge.jpg" width="45%" alt="Capture The Flag - The Hackers Hour"/>
+<img src="flaghunter-certificate.jpg" width="100%" alt="Flag Hunter 2.1 CTF Certificate"/>
 
 </td>
 
@@ -183,7 +181,7 @@
 <br>
 
 <a href="https://profile.hackthebox.com/profile/019c526e-791f-7191-8c4b-765e34d264d1">
-<img src="https://img.shields.io/badge/View%20HTB%20Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0a0a0a"/>
+<img src="HTB-certificate.jpg" width="100%" alt="HTB_CTF Certificate"/>
 </a>
 
 </td>
