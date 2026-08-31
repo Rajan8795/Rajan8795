@@ -158,6 +158,7 @@
 
 ### 🔴 Flag Hunter 2.1 — CTF Certificate ⭐
 **SecuriumX** · Amroha Police Cyber Security Internship Program
+
 📅 Issued 21 June 2026
 
 🏆 *Certificate of Outstanding Performance in Flag Hunter 2.1*
@@ -174,9 +175,10 @@
 
 ### 🟢 Cyber Apocalypse CTF 2026: The Salt Crown
 **Hack The Box (HTB CTF)**
+**Strengthened skills in web security, cryptography, exploitation, reconnaissance, and vulnerability analysis through hands-on problem solving.**
 📅 Jul 2026
 
-`CTF` `HackTheBox` `Ethical Hacking`
+`CTF` `HackTheBox` `Ethical Hacking` `Web Security` `Cryptograph`
 
 <br>
 
