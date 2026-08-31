@@ -129,7 +129,7 @@
 **Uttar Pradesh Police** · Internship
 📅 Jun 2026 · 1 month &nbsp;|&nbsp; 📍 Amroha, Uttar Pradesh, India · On-site
 
-`Burp Suite` `Ethical Hacking` `+2 more skills`
+`Burp Suite` `Ethical Hacking` `Pentesting`
 
 </td>
 </tr>
@@ -143,7 +143,7 @@
 
 # 🏅 CERTIFICATIONS
 
-<table>
+<table background-color = red>
 <tr>
 <td width="100%" style="background:linear-gradient(135deg,rgba(255,27,107,0.18),rgba(10,0,5,0.9));border:1px solid rgba(255,0,64,0.4);border-radius:12px;">
 
@@ -152,7 +152,7 @@
 
 🏆 *Certificate of Outstanding Performance in Flag Hunter 2.1*
 
-`CTF` `Ethical Hacking` `+3 more skills`
+`CTF` `Ethical Hacking` 
 
 </td>
 </tr>
@@ -166,11 +166,11 @@
 
 # 🏫 EDUCATION
 
-<table>
+<table background color = lighblue>
 <tr>
 <td width="100%" style="background:linear-gradient(135deg,rgba(26,0,16,0.9),rgba(5,0,2,0.95));border:1px solid rgba(255,27,107,0.3);border-radius:12px;">
 
-### 🖤 Ajay Kumar Garg Engineering College, Ghaziabad
+### Ajay Kumar Garg Engineering College, Ghaziabad
 **Bachelor of Technology (B.Tech) — Computer Science**
 📅 Sep 2024 – Sep 2028
 
@@ -363,11 +363,10 @@ Transaction risk analysis, security evidence and blockchain security concepts.
 <a href="https://github.com/Rajan8795/CCC-project-day1">
 <img src="https://img.shields.io/badge/REPO-ff0040?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
 </a>
-<a href="#">
+<a href="https://sheild-five.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-333333?style=for-the-badge&labelColor=0a0a0a"/>
 </a>
 
-*(deploy link add karo)*
 
 </td>
 
@@ -386,11 +385,11 @@ Browser-based password strength analysis and security awareness.
 <a href="https://github.com/Rajan8795/password-strengthchecker">
 <img src="https://img.shields.io/badge/REPO-ff0040?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
 </a>
-<a href="#">
+<a href="https://password-strengthchecker.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-333333?style=for-the-badge&labelColor=0a0a0a"/>
 </a>
 
-*(deploy link add karo)*
+
 
 </td>
 
@@ -410,14 +409,12 @@ Secure access workflows for centralized mine governance and compliance.
 
 <br>
 
-<a href="#">
+<a href="https://github.com/Rajan8795/SIH-Coal-Solution-">
 <img src="https://img.shields.io/badge/REPO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
 </a>
 <a href="#">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-333333?style=for-the-badge&labelColor=0a0a0a"/>
 </a>
-
-*(repo "SIH Coal Solution" name se dhundha par confirm nahi kar paya — exact repo URL paste kar do)*
 
 </td>
 
@@ -437,7 +434,7 @@ Practical security labs, CTF-style learning, web/API testing and security experi
 <img src="https://img.shields.io/badge/REPO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
 </a>
 
-*(repo link add karo)*
+
 
 </td>
 
@@ -455,58 +452,42 @@ Practical security labs, CTF-style learning, web/API testing and security experi
 ```text
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ whoami
-
 Rajan Prajapati — Cybersecurity Learner & Security Tester
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ cat about.txt
-
 Focused on web, API, and identity security.
 Recon → Test → Validate → Secure.
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ cat experience.txt
-
 Cybersecurity Intern @ Uttar Pradesh Police (Jun 2026, Amroha, On-site)
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ cat certifications.txt
-
 [+] Flag Hunter 2.1 CTF Certificate — Securium Solutions (Jun 2026)
 [+] Certificate of Outstanding Performance ⭐
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ cat skills.txt
-
 [+] OWASP Top 10           [+] Authentication & Authorization
 [+] Burp Suite / ZAP       [+] RBAC & Access Control
 [+] Nmap / Wireshark       [+] JWT / Session Security
 [+] Manual Web/API Testing [+] Vulnerability Assessment
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ ls projects/
-
 ChainShield/  PasswordStrengthChecker/  CoalGuardAI/  SecurityResearch/
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ status --live
-
 [✔] Learning     [✔] Testing     [✔] Building
 [✔] Securing     [✔] Improving   [●] Open to opportunities
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ contact --open
-
 LinkedIn ✔   GitHub ✔   LeetCode ✔
 ```
-
 </div>
 
 ---
 
 <div align="center">
 
-# 📊 GITHUB ACTIVITY <sub>· auto-updates live</sub>
+# 📊 GITHUB ACTIVITY 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rajan8795&show_icons=true&hide_border=true&theme=radical&rank_icon=github&include_all_commits=true&icon_color=ff1b6b&title_color=ff0040&text_color=ffffff&bg_color=0a0a0a" height="180"/>
 
@@ -520,9 +501,9 @@ LinkedIn ✔   GitHub ✔   LeetCode ✔
 
 ---
 
-<div align="center">
+<div align="center" background-color=blue>
 
-# 🐍 CONTRIBUTION SNAKE <sub>· default, auto-updates daily</sub>
+# 🐍 CONTRIBUTION SNAKE 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
@@ -530,13 +511,12 @@ LinkedIn ✔   GitHub ✔   LeetCode ✔
 
 ---
 
-<div align="center">
+<div align="center" background-color = grey>
 
-# 📈 CONTRIBUTION GRAPH <sub>· dynamic, reflects real activity</sub>
+# 📈 CONTRIBUTION GRAPH 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajan8795&bg_color=0a0a0a&color=ff1b6b&line=ff0040&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 
-*Agar abhi graph khaali dikh raha hai, iska matlab GitHub par recent public contributions kam/nahi hain — jaise-jaise activity hogi, ye khud-ba-khud update ho jayega.*
 
 </div>
 
@@ -544,7 +524,7 @@ LinkedIn ✔   GitHub ✔   LeetCode ✔
 
 <div align="center">
 
-# 🏆 GITHUB ACHIEVEMENTS <sub>· auto-unlocks instantly</sub>
+# 🏆 GITHUB ACHIEVEMENTS 
 
 <img src="https://github-profile-trophy.vercel.app/?username=Rajan8795&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
@@ -556,7 +536,7 @@ LinkedIn ✔   GitHub ✔   LeetCode ✔
 
 # 💼 SKILLS FOR SECURITY ROLES
 
-<table>
+<table background-color=pink-red >
 <tr>
 <td width="50%" style="background:linear-gradient(135deg,#2b0000,#0a0000);">
 
@@ -591,7 +571,7 @@ LinkedIn ✔   GitHub ✔   LeetCode ✔
 
 # 🧭 SECURITY ROADMAP
 
-<table>
+<table background-color=purple>
 <tr>
 
 <td align="center" style="background:linear-gradient(135deg,#2b0000,#0a0000);">
