@@ -1,37 +1,56 @@
 <div align="center">
 
-<a href="https://github.com/Rajan8795">
-  <img src="https://github.com/Rajan8795.png" width="160" height="160" style="border-radius:50%;border:3px solid #00FF9C;" alt="Rajan Prajapati"/>
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=RAJAN%20PRAJAPATI&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:000000,35:ff0000,65:0066ff,100:00ff9c" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity;Security+Testing;Authentication+%26+Authorization;Web+%26+API+Security;Network+Security;Learn+%E2%86%92+Test+%E2%86%92+Secure" alt="Typing animation"/>
-
-<br>
-
-<a href="https://github.com/Rajan8795">
-<img src="https://img.shields.io/github/followers/Rajan8795?style=for-the-badge&logo=github&label=FOLLOWERS" />
-</a>
-<a href="https://github.com/Rajan8795?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-15-00ff9c?style=for-the-badge&logo=github" />
-</a>
-<a href="https://github.com/Rajan8795">
-<img src="https://komarev.com/ghpvc/?username=Rajan8795&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=RAJAN%20PRAJAPATI&fontSize=44&fontColor=ffffff&animation=fadeIn&color=0:0a0000,25:ff0040,55:ff1b6b,80:0a0a0a,100:1a001a" width="100%"/>
 
 </div>
+
+<table width="100%">
+<tr>
+<td width="30%" align="center">
+
+<img src="https://github.com/Rajan8795.png" width="220" height="220" style="border-radius:50%;border:5px solid #FF1B6B;box-shadow:0 0 25px #ff0040;" alt="Rajan Prajapati"/>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/Rajan8795?style=for-the-badge&logo=github&label=FOLLOWERS&color=ff0040&labelColor=0a0a0a"/>
+<br>
+<img src="https://img.shields.io/badge/Repositories-15-ff1b6b?style=for-the-badge&labelColor=0a0a0a"/>
+<br>
+<img src="https://komarev.com/ghpvc/?username=Rajan8795&style=for-the-badge&color=ff0040&labelColor=0a0a0a&label=PROFILE+VIEWS"/>
+
+</td>
+<td width="70%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=FF1B6B&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast+%F0%9F%94%B4;Security+Testing+%26+VAPT;Authentication+%26+Authorization+Specialist;Web+%26+API+Security+Researcher;Network+Security+Learner;Learn+%E2%86%92+Test+%E2%86%92+Secure" alt="Typing animation"/>
+
+<br><br>
+
+> 🌙 Cybersecurity learner focused on **web, API, and identity security** — recon → test → validate → secure. Building practical, hands-on security skills through internships, CTFs, and real project work.
+
+<a href="https://www.linkedin.com/in/rajanprajapati8795/">
+<img src="https://img.shields.io/badge/LinkedIn-ff0040?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/>
+</a>
+<a href="https://leetcode.com/u/Rajan_Prajapati/">
+<img src="https://img.shields.io/badge/LeetCode-ff1b6b?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a"/>
+</a>
+<a href="https://github.com/Rajan8795">
+<img src="https://img.shields.io/badge/GitHub-ff0040?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 🧩 SECURITY PROFILE
+## 🌙 SECURITY PROFILE
 
 <table>
 <tr>
 
-<td width="25%" align="center" style="background:#1a0000;">
+<td width="25%" align="center" style="background:linear-gradient(135deg,#2b0000,#0a0000);">
 
 ### 🔴 WEB SECURITY
 
@@ -46,9 +65,9 @@
 
 </td>
 
-<td width="25%" align="center" style="background:#001a05;">
+<td width="25%" align="center" style="background:linear-gradient(135deg,#330014,#0a0005);">
 
-### 🟢 IDENTITY SECURITY
+### 🌸 IDENTITY SECURITY
 
 `Authentication`
 `Authorization`
@@ -61,9 +80,9 @@
 
 </td>
 
-<td width="25%" align="center" style="background:#00061a;">
+<td width="25%" align="center" style="background:linear-gradient(135deg,#1a0010,#050002);">
 
-### 🔵 NETWORK SECURITY
+### 🖤 NETWORK SECURITY
 
 `TCP/IP`
 `DNS`
@@ -76,9 +95,9 @@
 
 </td>
 
-<td width="25%" align="center" style="background:#0a0a0a;">
+<td width="25%" align="center" style="background:linear-gradient(135deg,#0d0d0d,#000000);">
 
-### ⚫ SECURITY TESTING
+### 🌑 SECURITY TESTING
 
 `Web Testing`
 `API Testing`
@@ -100,16 +119,81 @@
 
 <div align="center">
 
+# 🎓 EXPERIENCE
+
+<table>
+<tr>
+<td width="100%" style="background:linear-gradient(135deg,rgba(255,0,64,0.18),rgba(10,0,5,0.9));border:1px solid rgba(255,27,107,0.4);border-radius:12px;">
+
+### 🌸 Cybersecurity Intern
+**Uttar Pradesh Police** · Internship
+📅 Jun 2026 · 1 month &nbsp;|&nbsp; 📍 Amroha, Uttar Pradesh, India · On-site
+
+`Burp Suite` `Ethical Hacking` `+2 more skills`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏅 CERTIFICATIONS
+
+<table>
+<tr>
+<td width="100%" style="background:linear-gradient(135deg,rgba(255,27,107,0.18),rgba(10,0,5,0.9));border:1px solid rgba(255,0,64,0.4);border-radius:12px;">
+
+### 🔴 Flag Hunter 2.1 — CTF Certificate ⭐
+**Securium Solutions Private Limited** · Issued Jun 2026
+
+🏆 *Certificate of Outstanding Performance in Flag Hunter 2.1*
+
+`CTF` `Ethical Hacking` `+3 more skills`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏫 EDUCATION
+
+<table>
+<tr>
+<td width="100%" style="background:linear-gradient(135deg,rgba(26,0,16,0.9),rgba(5,0,2,0.95));border:1px solid rgba(255,27,107,0.3);border-radius:12px;">
+
+### 🖤 Ajay Kumar Garg Engineering College, Ghaziabad
+**Bachelor of Technology (B.Tech) — Computer Science**
+📅 Sep 2024 – Sep 2028
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 # 🧪 SECURITY TESTING WORKFLOW
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=RECON%20%E2%86%92%20ENUMERATE%20%E2%86%92%20TEST%20%E2%86%92%20VALIDATE%20%E2%86%92%20REMEDIATE&fontSize=22&fontColor=ffffff&color=0:000000,50:111827,100:0f172a&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=RECON%20%E2%86%92%20ENUMERATE%20%E2%86%92%20TEST%20%E2%86%92%20VALIDATE%20%E2%86%92%20REMEDIATE&fontSize=20&fontColor=ffffff&color=0:1a0000,50:330014,100:0a0a0a&animation=fadeIn" />
 
 </div>
 
 <table>
 <tr>
 
-<td align="center">
+<td align="center" style="background:linear-gradient(135deg,#2b0000,#0a0000);">
 
 ### 🔎 RECON
 
@@ -122,7 +206,7 @@ DNS Enumeration
 
 </td>
 
-<td align="center">
+<td align="center" style="background:linear-gradient(135deg,#330014,#0a0005);">
 
 ### 🧪 TEST
 
@@ -136,7 +220,7 @@ Configurations
 
 </td>
 
-<td align="center">
+<td align="center" style="background:linear-gradient(135deg,#1a0010,#050002);">
 
 ### 🔍 VALIDATE
 
@@ -161,9 +245,9 @@ Remediation Verification
 <table>
 <tr>
 
-<td width="50%" align="center" style="background:#001a05;">
+<td width="50%" align="center" style="background:linear-gradient(135deg,#330014,#0a0005);">
 
-### 🟢 AUTHENTICATION
+### 🌸 AUTHENTICATION
 
 ```text
 LOGIN
@@ -181,9 +265,9 @@ AUTHENTICATED USER
 
 </td>
 
-<td width="50%" align="center" style="background:#00061a;">
+<td width="50%" align="center" style="background:linear-gradient(135deg,#1a0010,#050002);">
 
-### 🔵 AUTHORIZATION
+### 🖤 AUTHORIZATION
 
 ```text
 USER
@@ -215,38 +299,38 @@ ACCESS DECISION
 <table>
 <tr>
 
-<td width="33%" align="center" style="background:#1a0000;">
+<td width="33%" align="center" style="background:linear-gradient(135deg,#2b0000,#0a0000);">
 
 ### 🔴 WEB TESTING
 
-<img src="https://img.shields.io/badge/Burp%20Suite-FF0000?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-111111?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLMap-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nikto-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gobuster-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-ff0040?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-ff1b6b?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/SQLMap-ff0040?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Nikto-ff1b6b?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Gobuster-ff0040?style=for-the-badge&labelColor=0a0a0a"/>
 
 </td>
 
-<td width="33%" align="center" style="background:#00061a;">
+<td width="33%" align="center" style="background:linear-gradient(135deg,#330014,#0a0005);">
 
-### 🔵 NETWORK
+### 🌸 NETWORK
 
-<img src="https://img.shields.io/badge/Nmap-0066FF?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netcat-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-ff0040?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Wireshark-ff1b6b?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Netcat-ff0040?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/cURL-ff1b6b?style=for-the-badge&logo=curl&logoColor=white&labelColor=0a0a0a"/>
 
 </td>
 
-<td width="33%" align="center" style="background:#001a05;">
+<td width="33%" align="center" style="background:linear-gradient(135deg,#1a0010,#050002);">
 
-### 🟢 SECURITY LABS
+### 🖤 SECURITY LABS
 
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hydra-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hashcat-00AA00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/John-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-ff0040?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Hydra-ff1b6b?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Hashcat-ff0040?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/John-ff1b6b?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-ff0040?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0a0a0a"/>
 
 </td>
 
@@ -264,7 +348,7 @@ ACCESS DECISION
 <table>
 <tr>
 
-<td width="50%" align="center" style="background:#1a0000;">
+<td width="50%" align="center" style="background:linear-gradient(135deg,#2b0000,#0a0000);">
 
 ## ⛓️ ChainShield
 
@@ -277,12 +361,17 @@ Transaction risk analysis, security evidence and blockchain security concepts.
 <br>
 
 <a href="https://github.com/Rajan8795/CCC-project-day1">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/REPO-ff0040?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
 </a>
+<a href="#">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-333333?style=for-the-badge&labelColor=0a0a0a"/>
+</a>
+
+*(deploy link add karo)*
 
 </td>
 
-<td width="50%" align="center" style="background:#00061a;">
+<td width="50%" align="center" style="background:linear-gradient(135deg,#330014,#0a0005);">
 
 ## 🔐 Password Strength Checker
 
@@ -295,8 +384,13 @@ Browser-based password strength analysis and security awareness.
 <br>
 
 <a href="https://github.com/Rajan8795/password-strengthchecker">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/REPO-ff0040?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
 </a>
+<a href="#">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-333333?style=for-the-badge&labelColor=0a0a0a"/>
+</a>
+
+*(deploy link add karo)*
 
 </td>
 
@@ -304,7 +398,7 @@ Browser-based password strength analysis and security awareness.
 
 <tr>
 
-<td width="50%" align="center" style="background:#001a05;">
+<td width="50%" align="center" style="background:linear-gradient(135deg,#1a0010,#050002);">
 
 ## ⛏️ CoalGuard AI
 
@@ -314,9 +408,20 @@ Secure access workflows for centralized mine governance and compliance.
 
 `Authentication` `Authorization` `RBAC` `Secure APIs`
 
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/REPO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-333333?style=for-the-badge&labelColor=0a0a0a"/>
+</a>
+
+*(repo "SIH Coal Solution" name se dhundha par confirm nahi kar paya — exact repo URL paste kar do)*
+
 </td>
 
-<td width="50%" align="center" style="background:#0a0a0a;">
+<td width="50%" align="center" style="background:linear-gradient(135deg,#0d0d0d,#000000);">
 
 ## 🧠 Security Research
 
@@ -325,6 +430,14 @@ Secure access workflows for centralized mine governance and compliance.
 Practical security labs, CTF-style learning, web/API testing and security experimentation.
 
 `CTF` `Labs` `Testing` `Research`
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/REPO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
+</a>
+
+*(repo link add karo)*
 
 </td>
 
@@ -337,37 +450,54 @@ Practical security labs, CTF-style learning, web/API testing and security experi
 
 <div align="center">
 
-# 🖥️ CYBER TERMINAL
+# 🖥️ PORTFOLIO TERMINAL
 
 ```text
-┌──(rajan㉿kali)-[~/cybersecurity]
+┌──(rajan㉿kali)-[~/portfolio]
 └─$ whoami
 
-Rajan Prajapati
+Rajan Prajapati — Cybersecurity Learner & Security Tester
 
-┌──(rajan㉿kali)-[~/cybersecurity]
-└─$ focus
+┌──(rajan㉿kali)-[~/portfolio]
+└─$ cat about.txt
 
-[+] Cybersecurity
-[+] Security Testing
-[+] Web Security
-[+] Network Security
-[+] Authentication
-[+] Authorization
+Focused on web, API, and identity security.
+Recon → Test → Validate → Secure.
 
-┌──(rajan㉿kali)-[~/cybersecurity]
-└─$ mission
+┌──(rajan㉿kali)-[~/portfolio]
+└─$ cat experience.txt
 
-LEARN → TEST → VALIDATE → SECURE
+Cybersecurity Intern @ Uttar Pradesh Police (Jun 2026, Amroha, On-site)
 
-┌──(rajan㉿kali)-[~/cybersecurity]
-└─$ status
+┌──(rajan㉿kali)-[~/portfolio]
+└─$ cat certifications.txt
 
-[+] Learning
-[+] Testing
-[+] Building
-[+] Securing
-[+] Improving
+[+] Flag Hunter 2.1 CTF Certificate — Securium Solutions (Jun 2026)
+[+] Certificate of Outstanding Performance ⭐
+
+┌──(rajan㉿kali)-[~/portfolio]
+└─$ cat skills.txt
+
+[+] OWASP Top 10           [+] Authentication & Authorization
+[+] Burp Suite / ZAP       [+] RBAC & Access Control
+[+] Nmap / Wireshark       [+] JWT / Session Security
+[+] Manual Web/API Testing [+] Vulnerability Assessment
+
+┌──(rajan㉿kali)-[~/portfolio]
+└─$ ls projects/
+
+ChainShield/  PasswordStrengthChecker/  CoalGuardAI/  SecurityResearch/
+
+┌──(rajan㉿kali)-[~/portfolio]
+└─$ status --live
+
+[✔] Learning     [✔] Testing     [✔] Building
+[✔] Securing     [✔] Improving   [●] Open to opportunities
+
+┌──(rajan㉿kali)-[~/portfolio]
+└─$ contact --open
+
+LinkedIn ✔   GitHub ✔   LeetCode ✔
 ```
 
 </div>
@@ -376,15 +506,15 @@ LEARN → TEST → VALIDATE → SECURE
 
 <div align="center">
 
-# 📊 GITHUB ACTIVITY <sub>(auto-updates)</sub>
+# 📊 GITHUB ACTIVITY <sub>· auto-updates live</sub>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rajan8795&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rajan8795&show_icons=true&hide_border=true&theme=radical&rank_icon=github&include_all_commits=true&icon_color=ff1b6b&title_color=ff0040&text_color=ffffff&bg_color=0a0a0a" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan8795&layout=compact&hide_border=true&theme=transparent" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan8795&layout=compact&hide_border=true&theme=radical&title_color=ff0040&text_color=ffffff&bg_color=0a0a0a" height="180"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Rajan8795&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Rajan8795&theme=radical&hide_border=true&background=0a0a0a&ring=ff0040&fire=ff1b6b&currStreakLabel=ff0040"/>
 
 </div>
 
@@ -392,7 +522,7 @@ LEARN → TEST → VALIDATE → SECURE
 
 <div align="center">
 
-# 🐍 CONTRIBUTION ACTIVITY <sub>(auto-updates daily)</sub>
+# 🐍 CONTRIBUTION SNAKE <sub>· default, auto-updates daily</sub>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
@@ -402,9 +532,11 @@ LEARN → TEST → VALIDATE → SECURE
 
 <div align="center">
 
-# 📈 CONTRIBUTION GRAPH
+# 📈 CONTRIBUTION GRAPH <sub>· dynamic, reflects real activity</sub>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajan8795&bg_color=00000000&color=00ff9c&line=0066ff&point=ff0000&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajan8795&bg_color=0a0a0a&color=ff1b6b&line=ff0040&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+
+*Agar abhi graph khaali dikh raha hai, iska matlab GitHub par recent public contributions kam/nahi hain — jaise-jaise activity hogi, ye khud-ba-khud update ho jayega.*
 
 </div>
 
@@ -412,9 +544,44 @@ LEARN → TEST → VALIDATE → SECURE
 
 <div align="center">
 
-# 🏆 GITHUB ACHIEVEMENTS
+# 🏆 GITHUB ACHIEVEMENTS <sub>· auto-unlocks instantly</sub>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rajan8795&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rajan8795&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💼 SKILLS FOR SECURITY ROLES
+
+<table>
+<tr>
+<td width="50%" style="background:linear-gradient(135deg,#2b0000,#0a0000);">
+
+### 🔴 Core Security
+
+- Vulnerability Assessment & Manual Testing
+- Web Application & API Security Testing
+- Authentication / Authorization Testing
+- OWASP Top 10 based Testing Methodology
+- Network Reconnaissance & Enumeration
+
+</td>
+<td width="50%" style="background:linear-gradient(135deg,#330014,#0a0005);">
+
+### 🌸 Tools & Practices
+
+- Burp Suite, OWASP ZAP, SQLMap, Nmap, Wireshark
+- Secure coding awareness (input validation, session mgmt)
+- RBAC & Access Control design review
+- Finding documentation, retesting & remediation validation
+- Git / GitHub based collaborative workflow
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -427,9 +594,9 @@ LEARN → TEST → VALIDATE → SECURE
 <table>
 <tr>
 
-<td align="center">
+<td align="center" style="background:linear-gradient(135deg,#2b0000,#0a0000);">
 
-🔵 **FOUNDATION**
+🔴 **FOUNDATION**
 
 Linux
 Networking
@@ -440,9 +607,9 @@ Web Fundamentals
 
 <td align="center">→</td>
 
-<td align="center">
+<td align="center" style="background:linear-gradient(135deg,#330014,#0a0005);">
 
-🟢 **SECURITY**
+🌸 **SECURITY**
 
 OWASP
 Web Security
@@ -453,9 +620,9 @@ Network Security
 
 <td align="center">→</td>
 
-<td align="center">
+<td align="center" style="background:linear-gradient(135deg,#1a0010,#050002);">
 
-🔴 **TESTING**
+🖤 **TESTING**
 
 Recon
 Enumeration
@@ -466,9 +633,9 @@ Manual Validation
 
 <td align="center">→</td>
 
-<td align="center">
+<td align="center" style="background:linear-gradient(135deg,#0d0d0d,#000000);">
 
-⚫ **ADVANCED**
+🌑 **ADVANCED**
 
 Identity Security
 Access Control
@@ -508,9 +675,9 @@ Security Automation
 
 <div align="center">
 
-# 🧪 SECURITY MINDSET
+# 🌙 SECURITY MINDSET
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=600&color=FF3B30&center=true&vCenter=true&width=750&lines=Think+Like+an+Attacker.;Validate+Like+a+Tester.;Fix+Like+a+Defender.;Document+Every+Finding.;Retest+Before+You+Trust." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=600&color=FF1B6B&center=true&vCenter=true&width=750&lines=Think+Like+an+Attacker.;Validate+Like+a+Tester.;Fix+Like+a+Defender.;Document+Every+Finding.;Retest+Before+You+Trust." />
 
 </div>
 
@@ -521,13 +688,13 @@ Security Automation
 # 🤝 CONNECT
 
 <a href="https://www.linkedin.com/in/rajanprajapati8795/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-ff0040?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/>
 </a>
 <a href="https://leetcode.com/u/Rajan_Prajapati/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-ff1b6b?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a"/>
 </a>
 <a href="https://github.com/Rajan8795">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ff0040?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
 </a>
 
 </div>
@@ -536,9 +703,9 @@ Security Automation
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=LEARN%20%E2%80%A2%20TEST%20%E2%80%A2%20SECURE&fontSize=24&fontColor=ffffff&animation=twinkling&color=0:000000,35:ff0000,65:0066ff,100:00ff9c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=LEARN%20%E2%80%A2%20TEST%20%E2%80%A2%20SECURE&fontSize=24&fontColor=ffffff&animation=twinkling&color=0:0a0000,25:ff0040,55:ff1b6b,80:0a0a0a,100:1a001a" width="100%"/>
 
-### 🔴 Learn • 🔵 Test • 🟢 Secure
+### 🔴 Learn • 🌸 Test • 🖤 Secure
 
 **Authorized Testing • Responsible Research • Secure Systems**
 
