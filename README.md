@@ -138,7 +138,6 @@
 
 <img src="assets/apcsip-internship.jpg" width="90%" alt="APCSIP 2026 Internship Certificate and ID Card"/>
 
-*(image upload karne ke baad yahan dikhegi — `assets/apcsip-internship.jpg` naam se apne repo mein daalo)*
 
 </td>
 </tr>
@@ -192,7 +191,7 @@
 </tr>
 </table>
 
-*(`assets/flaghunter-certificate.jpg` aur `assets/ctf-badge.jpg` upload karne ke baad ye images auto-dikhengi)*
+
 
 </div>
 
@@ -400,11 +399,9 @@ Transaction risk analysis, security evidence and blockchain security concepts.
 <a href="https://github.com/Rajan8795/CCC-project-day1">
 <img src="https://img.shields.io/badge/REPO-ff0040?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
 </a>
-<a href="#">
+<a href="https://sheild-five.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-333333?style=for-the-badge&labelColor=0a0a0a"/>
 </a>
-
-*(deploy link add karo)*
 
 </td>
 
@@ -423,11 +420,10 @@ Browser-based password strength analysis and security awareness.
 <a href="https://github.com/Rajan8795/password-strengthchecker">
 <img src="https://img.shields.io/badge/REPO-ff0040?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
 </a>
-<a href="#">
+<a href="https://password-strengthchecker.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-333333?style=for-the-badge&labelColor=0a0a0a"/>
 </a>
 
-*(deploy link add karo)*
 
 </td>
 
@@ -447,14 +443,14 @@ Secure access workflows for centralized mine governance and compliance.
 
 <br>
 
-<a href="#">
+<a href="https://github.com/Rajan8795/SIH-Coal-Solution-">
 <img src="https://img.shields.io/badge/REPO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
 </a>
 <a href="#">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-333333?style=for-the-badge&labelColor=0a0a0a"/>
 </a>
 
-*("SIH Coal Solution" naam se dhundha, confirm nahi ho paya — exact repo URL paste karo)*
+
 
 </td>
 
@@ -474,7 +470,7 @@ Practical security labs, CTF-style learning, web/API testing and security experi
 <img src="https://img.shields.io/badge/REPO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
 </a>
 
-*(repo link add karo)*
+
 
 </td>
 
@@ -492,42 +488,29 @@ Practical security labs, CTF-style learning, web/API testing and security experi
 ```text
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ whoami
-
 Rajan Prajapati — Ethical Hacker | Security Tester | Bug Hunter
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ cat experience.txt
-
 Cybersecurity Intern @ APCSIP-2026, Amroha Police (Jun 2026, On-site)
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ cat ctf.txt
-
 [+] Flag Hunter 2.1 — Outstanding Performance ⭐ (Jun 2026)
 [+] Cyber Apocalypse CTF 2026: The Salt Crown — HTB (Jul 2026)
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ cat skills.txt
-
 [+] OWASP Top 10           [+] Authentication & Authorization
 [+] Burp Suite / ZAP       [+] RBAC & Access Control
 [+] Nmap / Wireshark       [+] JWT / Session Security
 [+] Manual Web/API Testing [+] Vulnerability Assessment
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ ls projects/
-
 ChainShield/  PasswordStrengthChecker/  CoalGuardAI/  SecurityResearch/
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ status --live
-
 [✔] Learning     [✔] Testing     [✔] Building
 [✔] Securing     [✔] Improving   [●] Open to opportunities
-
 ┌──(rajan㉿kali)-[~/portfolio]
 └─$ contact --open
-
 LinkedIn ✔   GitHub ✔   LeetCode ✔   HackTheBox ✔
 ```
 
@@ -537,7 +520,7 @@ LinkedIn ✔   GitHub ✔   LeetCode ✔   HackTheBox ✔
 
 <div align="center">
 
-# 📊 GITHUB ACTIVITY <sub>· auto-updates live</sub>
+# 📊 GITHUB ACTIVITY 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rajan8795&show_icons=true&hide_border=true&theme=radical&rank_icon=github&include_all_commits=true&icon_color=ff1b6b&title_color=ff0040&text_color=ffffff&bg_color=0a0a0a" height="180"/>
 
@@ -553,7 +536,7 @@ LinkedIn ✔   GitHub ✔   LeetCode ✔   HackTheBox ✔
 
 <div align="center">
 
-# 🐍 CONTRIBUTION SNAKE <sub>· auto-updates daily</sub>
+# 🐍 CONTRIBUTION SNAKE 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
@@ -563,21 +546,9 @@ LinkedIn ✔   GitHub ✔   LeetCode ✔   HackTheBox ✔
 
 <div align="center">
 
-# 📈 CONTRIBUTION GRAPH <sub>· dynamic, reflects real activity</sub>
+# 📈 CONTRIBUTION GRAPH 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajan8795&bg_color=0a0a0a&color=ff1b6b&line=ff0040&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GITHUB TROPHIES <sub>· auto-unlocks instantly</sub>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rajan8795&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-*Real GitHub Achievement badges (Pull Shark, Quickdraw, YOLO, waghera) sirf `github.com/Rajan8795` par khud dikhte hain — GitHub inko README mein embed karne ke liye koi public image link nahi deta.*
 
 </div>
 
