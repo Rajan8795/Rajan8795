@@ -1,24 +1,18 @@
 <div align="center">
 
-# 🔐 Rajan Prajapati
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### `Cybersecurity Enthusiast` • `Ethical Hacking` • `Security Testing`
+<!--                         HERO                                -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Cybersecurity+%7C+Ethical+Hacking+%7C+Security+Testing;Web+Security+%7C+Network+Security;Authentication+%26+Authorization;Burp+Suite+%7C+Nmap+%7C+Wireshark+%7C+Kali+Linux;Building+%7C+Testing+%7C+Securing" alt="Typing Animation"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="./assets/cyber-profile-banner.png" width="100%" alt="Rajan Prajapati Cybersecurity"/>
 
 <br>
 
-<img src="./assets/cyber-profile-banner.png" width="100%" alt="Rajan Prajapati Cybersecurity Banner">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Cybersecurity+%7C+Ethical+Hacking+%7C+Security+Testing;Web+Security+%7C+Network+Security;Authentication+%26+Authorization;Burp+Suite+%7C+Nmap+%7C+Kali+Linux;Learn+%7C+Test+%7C+Secure" />
 
 <br><br>
-
-<a href="https://github.com/Rajan8795">
-<img src="https://img.shields.io/badge/GitHub-Rajan8795-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Rajan8795?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-238636?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <img src="https://komarev.com/ghpvc/?username=Rajan8795&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
 
@@ -26,142 +20,167 @@
 
 ---
 
-# 🛡️ About Me
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-I'm a Computer Science student with a strong interest in **Cybersecurity, Ethical Hacking, Security Testing, Web Security, Network Security, Authentication and Authorization**.
+<!--                       ABOUT CARD                            -->
 
-I enjoy understanding how systems work, identifying weaknesses in authorized environments, validating security controls and learning how applications can be made more secure.
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-Alongside cybersecurity, I work with **programming, web development, databases, APIs, Git/GitHub and deployment technologies** to understand and build the systems that I test.
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 🔐 About Me
+
+**Rajan Prajapati**
+
+Computer Science student focused on:
+
+🔴 **Cybersecurity**
+🔵 **Ethical Hacking**
+🟢 **Security Testing**
+🟣 **Web & Network Security**
+🟠 **Authentication & Authorization**
+
+I enjoy understanding systems, testing security controls in authorized environments, finding weaknesses and learning how to secure applications and networks.
+
+</td>
+
+<td width="40%" valign="top">
+
+## 🎯 Focus
 
 ```text
-                    ┌───────────────────────┐
-                    │      CYBERSECURITY    │
-                    └───────────┬───────────┘
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-              ▼                 ▼                 ▼
-        Web Security      Network Security    Identity
-              │                 │                 │
-              ▼                 ▼                 ▼
-       Security Testing     Enumeration     Authentication
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                │
-                                ▼
-                         Secure Systems
+🔐 Cybersecurity
+🧪 Security Testing
+🌐 Web Security
+🌍 Network Security
+🔑 Authentication
+🛡️ Authorization
+🐧 Linux / Kali
+🐙 Git / GitHub
 ```
 
-### 🔎 Current Focus
-
-* 🔐 Cybersecurity
-* 🧪 Security Testing
-* 🎯 Ethical Hacking
-* 🌐 Web Application Security
-* 🔌 API Security
-* 🌍 Network Security
-* 🔑 Authentication & Authorization
-* 🛡️ Vulnerability Assessment
-* 🐧 Linux & Kali Linux
-* 🐙 Git & GitHub Security Practices
-* 📚 CTFs and Security Labs
-* 🔧 Secure Application Development
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚔️ Cybersecurity Skills
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🌐 Web Application Security
+<!--                     SECURITY CARDS                          -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔴 WEB SECURITY
 
 * OWASP Top 10
-* Vulnerability Assessment
-* Reconnaissance
-* Information Gathering
-* Enumeration
-* Attack Surface Mapping
-* HTTP / HTTPS
-* Cookies & Sessions
-* Security Headers
-* Input Validation
-* Output Encoding
 * XSS
 * SQL Injection
 * CSRF
 * SSRF Concepts
-* IDOR
-* BOLA / Broken Object Level Authorization
-* File Inclusion Concepts
-* Command Injection Concepts
+* IDOR / BOLA
+* File Inclusion
+* Command Injection
 * Security Misconfiguration
 * Information Disclosure
+* Security Headers
+* Input Validation
 
-### 🔑 Authentication & Authorization
+</td>
 
-* Authentication Testing
-* Authorization Testing
-* Access Control Testing
-* Role-Based Access Control
+<td width="33%" valign="top">
+
+### 🔵 IDENTITY
+
+* Authentication
+* Authorization
+* RBAC
+* Access Control
 * Session Management
-* Session Security
-* Password Security
-* Password Hashing Concepts
-* JWT Security Concepts
-* Token-Based Authentication
+* JWT Concepts
+* Cookies
+* Tokens
 * MFA Concepts
+* Password Security
+* Privilege Boundaries
 * Secure Logout
-* Session Expiration
-* Privilege Escalation Concepts
-* Account Enumeration
-* Brute-Force Protection Concepts
 
-### 🌍 Network Security
+</td>
+
+<td width="33%" valign="top">
+
+### 🟢 NETWORK
 
 * TCP/IP
 * DNS
 * HTTP / HTTPS
-* Ports & Services
-* Network Enumeration
-* Service Enumeration
-* Network Reconnaissance
+* Ports
+* Services
+* Enumeration
+* Network Recon
 * Traffic Analysis
 * Packet Analysis
-* Basic Firewall Concepts
-* Network Security Fundamentals
+* Firewall Concepts
+* Network Diagnostics
+* Service Discovery
 
-### 🧪 Security Testing
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 SECURITY TESTING
 
 * Web Application Testing
 * API Security Testing
 * Authentication Testing
 * Authorization Testing
-* Network Security Testing
-* Vulnerability Validation
+* Network Testing
+* Vulnerability Assessment
 * Manual Testing
-* Automated Security Scanning
-* Security Configuration Testing
-* Security Headers Testing
-* Endpoint Testing
-* Input Validation Testing
+* Security Scanning
+* Configuration Testing
 * Session Testing
 * Access Control Testing
+* Retesting & Validation
 
-### 🐧 Linux & Security Environment
+</td>
 
-* Linux Command Line
-* Bash Basics
-* File Permissions
-* Processes
-* Services
-* Package Management
-* Environment Variables
-* Shell Utilities
-* Kali Linux
-* Linux Networking
+<td width="50%" valign="top">
+
+### 🟠 RECON & ANALYSIS
+
+* Information Gathering
+* Passive Recon
+* Active Recon
+* Attack Surface Mapping
+* Enumeration
+* Directory Discovery
+* DNS Enumeration
+* Service Identification
+* Vulnerability Analysis
+* Security Documentation
+* Finding Validation
+* Remediation Verification
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧰 Security Tools
+# 🧰 Security Arsenal
 
 <div align="center">
 
@@ -169,327 +188,301 @@ Alongside cybersecurity, I work with **programming, web development, databases, 
 
 </div>
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Tool                   | Primary Use                                |
-| ---------------------- | ------------------------------------------ |
-| 🔴 **Burp Suite**      | Web Application Security Testing           |
-| 🔵 **Nmap**            | Network Discovery & Enumeration            |
-| 🟢 **Wireshark**       | Network Traffic & Packet Analysis          |
-| 🟣 **Metasploit**      | Security Testing & Exploitation Labs       |
-| 🟠 **OWASP ZAP**       | Web Application Security Testing           |
-| 🔴 **SQLMap**          | SQL Injection Testing                      |
-| 🔵 **Gobuster**        | Directory & DNS Enumeration                |
-| 🟢 **Nikto**           | Web Server Security Assessment             |
-| 🟣 **Hydra**           | Authentication Testing in Authorized Labs  |
-| 🟠 **John the Ripper** | Password Security Testing                  |
-| 🔵 **Hashcat**         | Password Hash Testing                      |
-| 🟢 **Netcat**          | Network Diagnostics                        |
-| 🟣 **Maltego**         | Reconnaissance & OSINT                     |
-| 🔴 **theHarvester**    | Information Gathering                      |
-| 🔵 **Traceroute**      | Network Path Analysis                      |
-| 🟢 **curl**            | HTTP/API Testing                           |
-| 🟣 **Postman**         | API Testing                                |
-| 🔴 **Git**             | Version Control                            |
-| 🔵 **GitHub**          | Code Collaboration & Repository Management |
-| 🟢 **Docker**          | Containerized Testing Environments         |
+### 🔎 Testing & Recon
 
-> Tools are used for authorized testing, security labs, CTFs and environments where permission has been granted.
+| Tool          | Use                 |
+| ------------- | ------------------- |
+| 🔴 Burp Suite | Web Testing         |
+| 🔵 Nmap       | Network Recon       |
+| 🟢 Wireshark  | Traffic Analysis    |
+| 🟣 OWASP ZAP  | Web Testing         |
+| 🟠 Gobuster   | Enumeration         |
+| 🔴 Nikto      | Web Assessment      |
+| 🔵 SQLMap     | SQLi Testing        |
+| 🟢 Netcat     | Network Diagnostics |
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚔️ Security Labs
+
+| Tool            | Use                   |
+| --------------- | --------------------- |
+| 🟣 Metasploit   | Security Testing      |
+| 🟠 Hydra        | Auth Testing          |
+| 🔴 John         | Password Testing      |
+| 🔵 Hashcat      | Hash Testing          |
+| 🟢 Maltego      | Recon / OSINT         |
+| 🟣 theHarvester | Information Gathering |
+| 🟠 curl         | HTTP/API Testing      |
+| 🔵 Postman      | API Testing           |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Authorized Testing • CTFs • Security Labs • Responsible Research**
+
+</div>
 
 ---
 
-# 💻 Programming & Development Skills
+# 🔑 Authentication & Authorization
 
-Cybersecurity ke saath programming aur development fundamentals bhi meri toolkit ka important part hain.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Authentication
+
+```text
+Login
+  ↓
+Identity Verification
+  ↓
+Credentials / Token
+  ↓
+Session
+  ↓
+Authenticated User
+```
+
+**Areas:**
+
+`Passwords` • `Sessions` • `JWT` • `Cookies` • `MFA` • `Tokens`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Authorization
+
+```text
+User
+ ↓
+Role
+ ↓
+Permission
+ ↓
+Resource
+ ↓
+Access Decision
+```
+
+**Areas:**
+
+`RBAC` • `Access Control` • `IDOR` • `BOLA` • `Privilege Boundaries`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧪 Security Testing Flow
+
+<div align="center">
+
+```text
+🔎 RECON
+   ↓
+📡 ENUMERATION
+   ↓
+🗺️ ATTACK SURFACE
+   ↓
+🧪 TEST
+   ↓
+🔍 VALIDATE
+   ↓
+📝 DOCUMENT
+   ↓
+🛠️ REMEDIATE
+   ↓
+🔁 RETEST
+```
+
+</div>
+
+---
+
+# 💻 Programming & Development
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### Languages
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,bash" />
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,html,css,bash" />
+`Java`
+`Python`
+`JavaScript`
+`TypeScript`
+`C`
+`Bash`
 
-</div>
+</td>
 
-### Web Development
+<td width="33%" valign="top">
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React
-* Next.js
-* Tailwind CSS
-* Responsive UI
-* REST APIs
-* API Integration
-* Form Validation
-* Client-Side Security Concepts
+### Web
 
-### Backend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 
-* Node.js
-* Express.js
-* Python
-* Flask
-* REST API Development
-* API Authentication
-* API Authorization
-* Environment Variables
-* Error Handling
-* Server-Side Validation
+`HTML` • `CSS`
+`JavaScript` • `React`
+`Next.js` • `Tailwind`
+`REST APIs`
+`Responsive UI`
 
-### Databases
+</td>
 
-<div align="center">
+<td width="33%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+### Backend / DB
 
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgresql,mysql" />
 
-* MongoDB
-* PostgreSQL
-* MySQL
-* Database Fundamentals
-* CRUD Operations
-* Schema Design
-* Querying
-* Database Authentication
-* Secure Database Configuration Concepts
+`Node.js`
+`Express.js`
+`Python / Flask`
+`MongoDB`
+`PostgreSQL`
+`MySQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🐙 Git & GitHub
 
-Git/GitHub is an important part of my development and security workflow.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Git
 
 ```bash
-$ git clone <repository>
-
-$ git checkout -b security-testing
-
-$ git status
-
-$ git add .
-
-$ git commit -m "improve security validation"
-
-$ git push origin security-testing
+git clone
+git branch
+git checkout
+git add
+git commit
+git merge
+git pull
+git push
 ```
 
-### GitHub Practices
+</td>
 
-* Git
-* GitHub
-* Branching
-* Pull Requests
-* Issues
-* Code Reviews
-* Repository Management
-* GitHub Actions
-* CI/CD Fundamentals
-* Secrets Management
-* `.gitignore`
-* Dependabot Concepts
-* Secure Repository Practices
-* Documentation
-* Version Control
+<td width="50%" valign="top">
+
+### GitHub
+
+`Repositories`
+`Branches`
+`Pull Requests`
+`Issues`
+`Code Reviews`
+`GitHub Actions`
+`CI/CD`
+`Secrets Management`
+`Dependabot`
+`Repository Security`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧪 Security Testing Methodology
+# 🛡️ Featured Security Projects
 
-```text
-             ┌────────────────────┐
-             │   Reconnaissance   │
-             └─────────┬──────────┘
-                       ↓
-             ┌────────────────────┐
-             │    Enumeration     │
-             └─────────┬──────────┘
-                       ↓
-             ┌────────────────────┐
-             │ Attack Surface Map │
-             └─────────┬──────────┘
-                       ↓
-             ┌────────────────────┐
-             │ Security Testing   │
-             └─────────┬──────────┘
-                       ↓
-             ┌────────────────────┐
-             │ Validate Finding   │
-             └─────────┬──────────┘
-                       ↓
-             ┌────────────────────┐
-             │ Document Finding   │
-             └─────────┬──────────┘
-                       ↓
-             ┌────────────────────┐
-             │ Remediation / Fix  │
-             └────────────────────┘
-```
-
-### Testing Approach
-
-**Understand → Discover → Test → Validate → Document → Remediate → Retest**
-
----
-
-# 🔐 Authentication & Authorization
-
-One of my primary cybersecurity interests is **identity and access control**.
-
-```text
-                         USER
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Authentication  │
-                 │  Who are you?   │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Authorization   │
-                 │ What can you    │
-                 │ access?         │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Access Control  │
-                 │ Validation      │
-                 └────────┬────────┘
-                          │
-                          ▼
-                    SECURE ACCESS
-```
-
-### Areas of Interest
-
-* Login security
-* Registration security
-* Password handling
-* Password hashing concepts
-* Session management
-* JWT
-* Cookies
-* Tokens
-* MFA
-* RBAC
-* Access control
-* Privilege boundaries
-* IDOR / BOLA
-* Authorization bypass testing
-* Session expiration
-* Secure logout
-* API authentication
-* API authorization
-
----
-
-# 🌐 Web Security Map
-
-```text
-                         WEB SECURITY
-                              │
-        ┌─────────────────────┼─────────────────────┐
-        │                     │                     │
-        ▼                     ▼                     ▼
-    Injection            Access Control       Authentication
-        │                     │                     │
-      SQLi                   IDOR                 Sessions
-      XSS                    BOLA                 Tokens
-      Command               Privilege             JWT
-      Injection              Issues                MFA
-        │                     │                     │
-        └─────────────────────┼─────────────────────┘
-                              │
-                              ▼
-                       Security Testing
-```
-
----
-
-# 🚀 Cybersecurity Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🛡️ ChainShield
 
-**Web3 Security & Transaction Risk Analysis**
+**Web3 Security**
 
-A security-focused project exploring transaction intent analysis, risk identification, security evidence and Web3 security concepts.
+Transaction risk analysis, security evidence and Web3 security concepts.
 
-**Focus:**
+**Focus**
 
-* Web3 Security
-* Transaction Analysis
-* Risk Assessment
-* Security Evidence
-* Threat Intelligence Concepts
-* Blockchain Interaction
+`Web3` `Risk Analysis` `Threat Intelligence` `Blockchain Security`
 
-🔗 Repository:
-`https://github.com/Rajan8795/Sheild-`
+<a href="https://github.com/Rajan8795/Sheild-">View Repository →</a>
 
----
+</td>
 
-## ⛏️ CoalGuard AI
-
-**AI-Based Governance & Compliance Monitoring Platform for Coal Mines**
-
-A centralized platform concept focused on governance, compliance monitoring, inspections, operational reporting and risk-aware workflows.
-
-**Security-relevant areas:**
-
-* Authentication
-* Authorization
-* Role-Based Access
-* Secure APIs
-* User Access Control
-* Evidence Management
-* Audit-Oriented Workflows
-* Alerts & Escalation
-
-🔗 Repository:
-`https://github.com/Rajan8795/SIH-Coal-Solution`
-
----
+<td width="50%" valign="top">
 
 ## 🔐 Password Strength Checker
 
-A web-based security utility focused on password-strength awareness and secure password practices.
+**Security Utility**
 
-🔗 Repository:
-`https://github.com/Rajan8795/password-strengthchecker`
+Browser-based password-strength analysis and security awareness.
+
+**Focus**
+
+`Password Security` `JavaScript` `Web Security`
+
+<a href="https://github.com/Rajan8795/password-strengthchecker">View Repository →</a>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## ⛏️ CoalGuard AI
+
+**Governance + Security**
+
+Centralized mine governance and compliance platform with secure access workflows.
+
+**Security**
+
+`Authentication` `Authorization` `RBAC` `Secure APIs`
+
+<a href="https://github.com/Rajan8795/SIH-Coal-Solution">View Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 Subreddit Vibe Check
+
+**Data / API**
+
+Reddit-focused data analysis and application project.
+
+**Focus**
+
+`API` `Python` `Data Analysis`
+
+<a href="https://github.com/Rajan8795/The-Subreddit-Vibe-Check">View Repository →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 The Subreddit Vibe Check
-
-A data-oriented project exploring Reddit community content and analysis.
-
-🔗 Repository:
-`https://github.com/Rajan8795/The-Subreddit-Vibe-Check`
-
----
-
-# 📂 Other Projects
-
-| Project                       | Area                  |
-| ----------------------------- | --------------------- |
-| 🛡️ ChainShield               | Web3 Security         |
-| ⛏️ CoalGuard AI               | Governance + Security |
-| 🔐 Password Strength Checker  | Security              |
-| 🧠 Subreddit Vibe Check       | Data / API            |
-| 📈 Loan Prediction            | Machine Learning      |
-| 🍽️ Restaurant Recommendation | Machine Learning      |
-| 🎬 BoxOfficeRevenue           | Data Analysis         |
-| 🌸 Iris                       | Machine Learning      |
-| 💻 Web Projects               | Frontend / JavaScript |
-| 🧩 LeetCode                   | DSA / Problem Solving |
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Live Analytics
 
 <div align="center">
 
@@ -497,11 +490,7 @@ A data-oriented project exploring Reddit community content and analysis.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan8795&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Rajan8795&theme=tokyonight&hide_border=true&background=0D1117" />
 
@@ -509,7 +498,7 @@ A data-oriented project exploring Reddit community content and analysis.
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -539,7 +528,11 @@ A data-oriented project exploring Reddit community content and analysis.
 
 ---
 
-# 🖥️ Terminal
+# 🖥️ Cyber Terminal
+
+<table>
+<tr>
+<td>
 
 ```text
 ┌──(rajan㉿kali)-[~/cybersecurity]
@@ -548,7 +541,7 @@ A data-oriented project exploring Reddit community content and analysis.
 Rajan Prajapati
 
 ┌──(rajan㉿kali)-[~/cybersecurity]
-└─$ cat focus.txt
+└─$ focus
 
 Cybersecurity
 Ethical Hacking
@@ -557,8 +550,7 @@ Web Security
 Network Security
 Authentication
 Authorization
-Git & GitHub
-Linux
+Git / GitHub
 
 ┌──(rajan㉿kali)-[~/cybersecurity]
 └─$ tools
@@ -572,27 +564,14 @@ SQLMap
 Gobuster
 Nikto
 Hydra
-John the Ripper
 Hashcat
-Maltego
+John
 Kali Linux
-
-┌──(rajan㉿kali)-[~/cybersecurity]
-└─$ languages
-
-Java
-Python
-JavaScript
-TypeScript
-C
-HTML
-CSS
-Bash
 
 ┌──(rajan㉿kali)-[~/cybersecurity]
 └─$ mission
 
-Learn → Test → Validate → Secure
+Learn → Test → Secure
 
 ┌──(rajan㉿kali)-[~/cybersecurity]
 └─$ status
@@ -603,125 +582,104 @@ Learn → Test → Validate → Secure
 [+] Securing
 
 ┌──(rajan㉿kali)-[~/cybersecurity]
-└─$ echo "Stay curious. Test responsibly."
-
-Stay curious. Test responsibly. 🔐
+└─$ _
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 Current Learning
+# 🧭 Security Roadmap
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                 CURRENT FOCUS                        │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  🔐 Cybersecurity                                   │
-│  🧪 Security Testing                                │
-│  🌐 Web Application Security                        │
-│  🔑 Authentication & Authorization                  │
-│  🌍 Network Security                                │
-│  🐧 Linux / Kali Linux                              │
-│  🐙 Git & GitHub                                    │
-│  💻 Programming & Web Development                   │
-│  🧠 Data Structures & Algorithms                    │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center">
 
----
+🔵 **FOUNDATION**
 
-# 🗺️ Cybersecurity Learning Roadmap
-
-```text
 Linux
-  │
-  ▼
 Networking
-  │
-  ▼
 Web Fundamentals
-  │
-  ▼
-OWASP & Web Security
-  │
-  ▼
-Reconnaissance & Enumeration
-  │
-  ▼
-Security Testing
-  │
-  ▼
-Authentication & Authorization
-  │
-  ▼
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+🟢 **SECURITY**
+
+OWASP
+Web Security
+Network Security
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+🔴 **TESTING**
+
+Recon
+Enumeration
+Vulnerability Testing
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+🟣 **ADVANCED**
+
 API Security
-  │
-  ▼
-Advanced Security Concepts
-```
+Identity Security
+Advanced Testing
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🏅 Experience & Activities
 
-* 🔐 Cybersecurity-focused internships
-* 🧪 CTF participation and security labs
-* 🎯 Ethical hacking practice
-* 🌐 Web security testing
-* 🔎 Reconnaissance & enumeration practice
-* 🐧 Linux / Kali Linux hands-on work
-* 🛡️ Security-focused projects
-* 🏆 Hackathon participation
-* 🐙 Git/GitHub-based project development
-* 📚 Continuous cybersecurity learning
+<div align="center">
+
+|  🔐 Cybersecurity |       🧪 Testing       |    🏆 Activities   |
+| :---------------: | :--------------------: | :----------------: |
+| Security Projects |       Web Testing      |     Hackathons     |
+|  Ethical Hacking  |       API Testing      |        CTFs        |
+|    Linux / Kali   |     Network Testing    |    Security Labs   |
+|   Authentication  | Vulnerability Analysis | Practical Learning |
+|   Authorization   |   Security Validation  |     Open Source    |
+
+</div>
 
 ---
 
-# 📚 Learning Philosophy
+# 📚 Currently Learning
+
+<div align="center">
 
 ```text
-Learn
-  ↓
-Understand
-  ↓
-Practice
-  ↓
-Test
-  ↓
-Break
-  ↓
-Analyze
-  ↓
-Fix
-  ↓
-Secure
+🔐 Cybersecurity
+      ↓
+🧪 Advanced Security Testing
+      ↓
+🌐 Web & API Security
+      ↓
+🔑 Authentication & Authorization
+      ↓
+🌍 Network Security
+      ↓
+🐧 Linux & Security Automation
+      ↓
+🐙 GitHub Security Practices
 ```
 
-> **Security is not only about finding vulnerabilities — it's about understanding why they exist and how to prevent them.**
+</div>
 
 ---
 
-# 🤝 Open To
-
-I'm interested in:
-
-* 🔐 Cybersecurity projects
-* 🧪 Security testing projects
-* 🌐 Web security
-* 🔑 Authentication & Authorization
-* 🛡️ Security automation
-* 🐧 Linux security
-* 🐙 Open-source security projects
-* 🏆 Hackathons
-* 🧩 CTFs
-* 🔎 Vulnerability research
-* 📚 Cybersecurity collaboration
-
----
-
-# 🌐 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -729,38 +687,26 @@ I'm interested in:
 <img src="https://img.shields.io/badge/GitHub-Rajan8795-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<a href="https://github.com/Rajan8795?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Repositories-238636?style=for-the-badge&logo=github"/>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-# 🔥 Profile Motto
-
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       🔴 LEARN   🔵 TEST   🟢 SECURE                ║
-║                                                      ║
-║       Hack Responsibly.                              ║
-║       Test Ethically.                                ║
-║       Build Securely.                                ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+# 🔴 Learn • 🔵 Test • 🟢 Secure
+
+### **Hack Responsibly • Test Ethically • Build Securely**
 
 <br>
 
-**Cybersecurity • Ethical Hacking • Security Testing**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF1744,30:8E24AA,60:00BFFF,100:00E676" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF1744,25:8E24AA,50:00BFFF,75:00E676,100:FF1744" width="100%"/>
 
 </div>
