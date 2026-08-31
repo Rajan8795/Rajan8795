@@ -1,538 +1,343 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<a href="https://github.com/Rajan8795">
+  <img src="https://github.com/Rajan8795.png" width="160" height="160" style="border-radius:50%;border:3px solid #00FF9C;" alt="Rajan Prajapati"/>
+</a>
 
-<!--                         HERO                                -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=RAJAN%20PRAJAPATI&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:000000,35:ff0000,65:0066ff,100:00ff9c" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="./assets/cyber-profile-banner.png" width="100%" alt="Rajan Prajapati Cybersecurity"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity;Security+Testing;Authentication+%26+Authorization;Web+%26+API+Security;Network+Security;Learn+%E2%86%92+Test+%E2%86%92+Secure" alt="Typing animation"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Cybersecurity+%7C+Ethical+Hacking+%7C+Security+Testing;Web+Security+%7C+Network+Security;Authentication+%26+Authorization;Burp+Suite+%7C+Nmap+%7C+Kali+Linux;Learn+%7C+Test+%7C+Secure" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Rajan8795&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
+<a href="https://github.com/Rajan8795">
+<img src="https://img.shields.io/github/followers/Rajan8795?style=for-the-badge&logo=github&label=FOLLOWERS" />
+</a>
+<a href="https://github.com/Rajan8795?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-15-00ff9c?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/Rajan8795">
+<img src="https://komarev.com/ghpvc/?username=Rajan8795&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+</a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<!--                       ABOUT CARD                            -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
+## 🧩 SECURITY PROFILE
 
 <table>
 <tr>
-<td width="60%" valign="top">
 
-## 🔐 About Me
-
-**Rajan Prajapati**
-
-Computer Science student focused on:
-
-🔴 **Cybersecurity**
-🔵 **Ethical Hacking**
-🟢 **Security Testing**
-🟣 **Web & Network Security**
-🟠 **Authentication & Authorization**
-
-I enjoy understanding systems, testing security controls in authorized environments, finding weaknesses and learning how to secure applications and networks.
-
-</td>
-
-<td width="40%" valign="top">
-
-## 🎯 Focus
-
-```text
-🔐 Cybersecurity
-🧪 Security Testing
-🌐 Web Security
-🌍 Network Security
-🔑 Authentication
-🛡️ Authorization
-🐧 Linux / Kali
-🐙 Git / GitHub
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                     SECURITY CARDS                          -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
-<td width="33%" valign="top">
+<td width="25%" align="center" style="background:#1a0000;">
 
 ### 🔴 WEB SECURITY
 
-* OWASP Top 10
-* XSS
-* SQL Injection
-* CSRF
-* SSRF Concepts
-* IDOR / BOLA
-* File Inclusion
-* Command Injection
-* Security Misconfiguration
-* Information Disclosure
-* Security Headers
-* Input Validation
+`OWASP Top 10`
+`XSS`
+`SQL Injection`
+`CSRF`
+`IDOR / BOLA`
+`SSRF Concepts`
+`Security Headers`
+`Input Validation`
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" align="center" style="background:#001a05;">
 
-### 🔵 IDENTITY
+### 🟢 IDENTITY SECURITY
 
-* Authentication
-* Authorization
-* RBAC
-* Access Control
-* Session Management
-* JWT Concepts
-* Cookies
-* Tokens
-* MFA Concepts
-* Password Security
-* Privilege Boundaries
-* Secure Logout
+`Authentication`
+`Authorization`
+`RBAC`
+`Access Control`
+`Session Security`
+`JWT`
+`Cookies`
+`MFA Concepts`
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" align="center" style="background:#00061a;">
 
-### 🟢 NETWORK
+### 🔵 NETWORK SECURITY
 
-* TCP/IP
-* DNS
-* HTTP / HTTPS
-* Ports
-* Services
-* Enumeration
-* Network Recon
-* Traffic Analysis
-* Packet Analysis
-* Firewall Concepts
-* Network Diagnostics
-* Service Discovery
+`TCP/IP`
+`DNS`
+`HTTP / HTTPS`
+`Ports`
+`Enumeration`
+`Traffic Analysis`
+`Packet Analysis`
+`Firewall Concepts`
 
 </td>
+
+<td width="25%" align="center" style="background:#0a0a0a;">
+
+### ⚫ SECURITY TESTING
+
+`Web Testing`
+`API Testing`
+`Auth Testing`
+`Authorization Testing`
+`Network Testing`
+`Vulnerability Assessment`
+`Manual Testing`
+`Retesting`
+
+</td>
+
 </tr>
 </table>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 SECURITY TESTING
-
-* Web Application Testing
-* API Security Testing
-* Authentication Testing
-* Authorization Testing
-* Network Testing
-* Vulnerability Assessment
-* Manual Testing
-* Security Scanning
-* Configuration Testing
-* Session Testing
-* Access Control Testing
-* Retesting & Validation
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🟠 RECON & ANALYSIS
-
-* Information Gathering
-* Passive Recon
-* Active Recon
-* Attack Surface Mapping
-* Enumeration
-* Directory Discovery
-* DNS Enumeration
-* Service Identification
-* Vulnerability Analysis
-* Security Documentation
-* Finding Validation
-* Remediation Verification
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧰 Security Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,python,js,html,css" />
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 Testing & Recon
-
-| Tool          | Use                 |
-| ------------- | ------------------- |
-| 🔴 Burp Suite | Web Testing         |
-| 🔵 Nmap       | Network Recon       |
-| 🟢 Wireshark  | Traffic Analysis    |
-| 🟣 OWASP ZAP  | Web Testing         |
-| 🟠 Gobuster   | Enumeration         |
-| 🔴 Nikto      | Web Assessment      |
-| 🔵 SQLMap     | SQLi Testing        |
-| 🟢 Netcat     | Network Diagnostics |
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚔️ Security Labs
-
-| Tool            | Use                   |
-| --------------- | --------------------- |
-| 🟣 Metasploit   | Security Testing      |
-| 🟠 Hydra        | Auth Testing          |
-| 🔴 John         | Password Testing      |
-| 🔵 Hashcat      | Hash Testing          |
-| 🟢 Maltego      | Recon / OSINT         |
-| 🟣 theHarvester | Information Gathering |
-| 🟠 curl         | HTTP/API Testing      |
-| 🔵 Postman      | API Testing           |
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**Authorized Testing • CTFs • Security Labs • Responsible Research**
 
 </div>
 
 ---
 
-# 🔑 Authentication & Authorization
+<div align="center">
+
+# 🧪 SECURITY TESTING WORKFLOW
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=RECON%20%E2%86%92%20ENUMERATE%20%E2%86%92%20TEST%20%E2%86%92%20VALIDATE%20%E2%86%92%20REMEDIATE&fontSize=22&fontColor=ffffff&color=0:000000,50:111827,100:0f172a&animation=fadeIn" />
+
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### Authentication
+<td align="center">
+
+### 🔎 RECON
+
+Information Gathering
+Passive Recon
+Active Recon
+Attack Surface Mapping
+Directory Discovery
+DNS Enumeration
+
+</td>
+
+<td align="center">
+
+### 🧪 TEST
+
+Web Applications
+APIs
+Authentication
+Authorization
+Sessions
+Access Control
+Configurations
+
+</td>
+
+<td align="center">
+
+### 🔍 VALIDATE
+
+Finding Validation
+False Positive Review
+Impact Analysis
+Security Verification
+Retesting
+Remediation Verification
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🔑 AUTHENTICATION × AUTHORIZATION
+
+<table>
+<tr>
+
+<td width="50%" align="center" style="background:#001a05;">
+
+### 🟢 AUTHENTICATION
 
 ```text
-Login
+LOGIN
   ↓
-Identity Verification
+IDENTITY
   ↓
-Credentials / Token
+CREDENTIALS
   ↓
-Session
+TOKEN / SESSION
   ↓
-Authenticated User
+AUTHENTICATED USER
 ```
-
-**Areas:**
 
 `Passwords` • `Sessions` • `JWT` • `Cookies` • `MFA` • `Tokens`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" style="background:#00061a;">
 
-### Authorization
+### 🔵 AUTHORIZATION
 
 ```text
-User
- ↓
-Role
- ↓
-Permission
- ↓
-Resource
- ↓
-Access Decision
+USER
+  ↓
+ROLE
+  ↓
+PERMISSION
+  ↓
+RESOURCE
+  ↓
+ACCESS DECISION
 ```
-
-**Areas:**
 
 `RBAC` • `Access Control` • `IDOR` • `BOLA` • `Privilege Boundaries`
 
 </td>
+
 </tr>
 </table>
-
----
-
-# 🧪 Security Testing Flow
-
-<div align="center">
-
-```text
-🔎 RECON
-   ↓
-📡 ENUMERATION
-   ↓
-🗺️ ATTACK SURFACE
-   ↓
-🧪 TEST
-   ↓
-🔍 VALIDATE
-   ↓
-📝 DOCUMENT
-   ↓
-🛠️ REMEDIATE
-   ↓
-🔁 RETEST
-```
 
 </div>
 
 ---
 
-# 💻 Programming & Development
+<div align="center">
+
+# 🧰 SECURITY ARSENAL
 
 <table>
 <tr>
-<td width="33%" valign="top">
 
-### Languages
+<td width="33%" align="center" style="background:#1a0000;">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,bash" />
+### 🔴 WEB TESTING
 
-`Java`
-`Python`
-`JavaScript`
-`TypeScript`
-`C`
-`Bash`
+<img src="https://img.shields.io/badge/Burp%20Suite-FF0000?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-111111?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLMap-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nikto-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gobuster-FF4B4B?style=for-the-badge"/>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" style="background:#00061a;">
 
-### Web
+### 🔵 NETWORK
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
-
-`HTML` • `CSS`
-`JavaScript` • `React`
-`Next.js` • `Tailwind`
-`REST APIs`
-`Responsive UI`
+<img src="https://img.shields.io/badge/Nmap-0066FF?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netcat-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white"/>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" style="background:#001a05;">
 
-### Backend / DB
+### 🟢 SECURITY LABS
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgresql,mysql" />
-
-`Node.js`
-`Express.js`
-`Python / Flask`
-`MongoDB`
-`PostgreSQL`
-`MySQL`
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hashcat-00AA00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
 </td>
+
 </tr>
 </table>
 
----
-
-# 🐙 Git & GitHub
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Git
-
-```bash
-git clone
-git branch
-git checkout
-git add
-git commit
-git merge
-git pull
-git push
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### GitHub
-
-`Repositories`
-`Branches`
-`Pull Requests`
-`Issues`
-`Code Reviews`
-`GitHub Actions`
-`CI/CD`
-`Secrets Management`
-`Dependabot`
-`Repository Security`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 🛡️ Featured Security Projects
+<div align="center">
+
+# 🛡️ SECURITY PROJECTS
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-## 🛡️ ChainShield
+<td width="50%" align="center" style="background:#1a0000;">
+
+## ⛓️ ChainShield
 
 **Web3 Security**
 
-Transaction risk analysis, security evidence and Web3 security concepts.
+Transaction risk analysis, security evidence and blockchain security concepts.
 
-**Focus**
+`Web3` `Risk Analysis` `Blockchain Security`
 
-`Web3` `Risk Analysis` `Threat Intelligence` `Blockchain Security`
+<br>
 
-<a href="https://github.com/Rajan8795/Sheild-">View Repository →</a>
+<a href="https://github.com/Rajan8795/CCC-project-day1">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" style="background:#00061a;">
 
 ## 🔐 Password Strength Checker
 
 **Security Utility**
 
-Browser-based password-strength analysis and security awareness.
-
-**Focus**
+Browser-based password strength analysis and security awareness.
 
 `Password Security` `JavaScript` `Web Security`
 
-<a href="https://github.com/Rajan8795/password-strengthchecker">View Repository →</a>
+<br>
+
+<a href="https://github.com/Rajan8795/password-strengthchecker">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-</tr>
-</table>
 
-<table>
+</tr>
+
 <tr>
-<td width="50%" valign="top">
+
+<td width="50%" align="center" style="background:#001a05;">
 
 ## ⛏️ CoalGuard AI
 
-**Governance + Security**
+**Secure Governance**
 
-Centralized mine governance and compliance platform with secure access workflows.
-
-**Security**
+Secure access workflows for centralized mine governance and compliance.
 
 `Authentication` `Authorization` `RBAC` `Secure APIs`
 
-<a href="https://github.com/Rajan8795/SIH-Coal-Solution">View Repository →</a>
+</td>
+
+<td width="50%" align="center" style="background:#0a0a0a;">
+
+## 🧠 Security Research
+
+**Learning • Testing • Validation**
+
+Practical security labs, CTF-style learning, web/API testing and security experimentation.
+
+`CTF` `Labs` `Testing` `Research`
 
 </td>
 
-<td width="50%" valign="top">
-
-## 🧠 Subreddit Vibe Check
-
-**Data / API**
-
-Reddit-focused data analysis and application project.
-
-**Focus**
-
-`API` `Python` `Data Analysis`
-
-<a href="https://github.com/Rajan8795/The-Subreddit-Vibe-Check">View Repository →</a>
-
-</td>
 </tr>
 </table>
 
----
-
-# 📊 GitHub Live Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rajan8795&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan8795&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Rajan8795&theme=tokyonight&hide_border=true&background=0D1117" />
-
 </div>
 
 ---
 
-# 📈 Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajan8795&bg_color=0D1117&color=00E5FF&line=39FF14&point=FF1744&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rajan8795&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="./assets/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🖥️ Cyber Terminal
-
-<table>
-<tr>
-<td>
+# 🖥️ CYBER TERMINAL
 
 ```text
 ┌──(rajan㉿kali)-[~/cybersecurity]
@@ -543,35 +348,17 @@ Rajan Prajapati
 ┌──(rajan㉿kali)-[~/cybersecurity]
 └─$ focus
 
-Cybersecurity
-Ethical Hacking
-Security Testing
-Web Security
-Network Security
-Authentication
-Authorization
-Git / GitHub
-
-┌──(rajan㉿kali)-[~/cybersecurity]
-└─$ tools
-
-Burp Suite
-Nmap
-Wireshark
-Metasploit
-OWASP ZAP
-SQLMap
-Gobuster
-Nikto
-Hydra
-Hashcat
-John
-Kali Linux
+[+] Cybersecurity
+[+] Security Testing
+[+] Web Security
+[+] Network Security
+[+] Authentication
+[+] Authorization
 
 ┌──(rajan㉿kali)-[~/cybersecurity]
 └─$ mission
 
-Learn → Test → Secure
+LEARN → TEST → VALIDATE → SECURE
 
 ┌──(rajan㉿kali)-[~/cybersecurity]
 └─$ status
@@ -580,41 +367,92 @@ Learn → Test → Secure
 [+] Testing
 [+] Building
 [+] Securing
-
-┌──(rajan㉿kali)-[~/cybersecurity]
-└─$ _
+[+] Improving
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 🧭 Security Roadmap
+<div align="center">
+
+# 📊 GITHUB ACTIVITY <sub>(auto-updates)</sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rajan8795&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan8795&layout=compact&hide_border=true&theme=transparent" height="180"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Rajan8795&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 CONTRIBUTION ACTIVITY <sub>(auto-updates daily)</sub>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 CONTRIBUTION GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajan8795&bg_color=00000000&color=00ff9c&line=0066ff&point=ff0000&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GITHUB ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rajan8795&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧭 SECURITY ROADMAP
 
 <table>
 <tr>
+
 <td align="center">
 
 🔵 **FOUNDATION**
 
 Linux
 Networking
+HTTP
 Web Fundamentals
 
 </td>
+
 <td align="center">→</td>
+
 <td align="center">
 
 🟢 **SECURITY**
 
 OWASP
 Web Security
+API Security
 Network Security
 
 </td>
+
 <td align="center">→</td>
+
 <td align="center">
 
 🔴 **TESTING**
@@ -622,77 +460,74 @@ Network Security
 Recon
 Enumeration
 Vulnerability Testing
+Manual Validation
 
 </td>
+
 <td align="center">→</td>
+
 <td align="center">
 
-🟣 **ADVANCED**
+⚫ **ADVANCED**
 
-API Security
 Identity Security
-Advanced Testing
+Access Control
+Advanced API Testing
+Security Automation
 
 </td>
+
 </tr>
 </table>
 
----
+</div>
 
-# 🏅 Experience & Activities
+---
 
 <div align="center">
 
-|  🔐 Cybersecurity |       🧪 Testing       |    🏆 Activities   |
-| :---------------: | :--------------------: | :----------------: |
-| Security Projects |       Web Testing      |     Hackathons     |
-|  Ethical Hacking  |       API Testing      |        CTFs        |
-|    Linux / Kali   |     Network Testing    |    Security Labs   |
-|   Authentication  | Vulnerability Analysis | Practical Learning |
-|   Authorization   |   Security Validation  |     Open Source    |
+# 📚 CURRENTLY LEARNING
+
+`Advanced Security Testing`
+↓
+`Web & API Security`
+↓
+`Authentication & Authorization`
+↓
+`Network Security`
+↓
+`Linux Security`
+↓
+`Security Automation`
+↓
+`GitHub Security Practices`
 
 </div>
 
 ---
 
-# 📚 Currently Learning
-
 <div align="center">
 
-```text
-🔐 Cybersecurity
-      ↓
-🧪 Advanced Security Testing
-      ↓
-🌐 Web & API Security
-      ↓
-🔑 Authentication & Authorization
-      ↓
-🌍 Network Security
-      ↓
-🐧 Linux & Security Automation
-      ↓
-🐙 GitHub Security Practices
-```
+# 🧪 SECURITY MINDSET
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=600&color=FF3B30&center=true&vCenter=true&width=750&lines=Think+Like+an+Attacker.;Validate+Like+a+Tester.;Fix+Like+a+Defender.;Document+Every+Finding.;Retest+Before+You+Trust." />
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
-
 <div align="center">
 
+# 🤝 CONNECT
+
+<a href="https://www.linkedin.com/in/rajanprajapati8795/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Rajan_Prajapati/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 <a href="https://github.com/Rajan8795">
-<img src="https://img.shields.io/badge/GitHub-Rajan8795-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -701,12 +536,10 @@ Advanced Testing
 
 <div align="center">
 
-# 🔴 Learn • 🔵 Test • 🟢 Secure
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=LEARN%20%E2%80%A2%20TEST%20%E2%80%A2%20SECURE&fontSize=24&fontColor=ffffff&animation=twinkling&color=0:000000,35:ff0000,65:0066ff,100:00ff9c" width="100%"/>
 
-### **Hack Responsibly • Test Ethically • Build Securely**
+### 🔴 Learn • 🔵 Test • 🟢 Secure
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF1744,25:8E24AA,50:00BFFF,75:00E676,100:FF1744" width="100%"/>
+**Authorized Testing • Responsible Research • Secure Systems**
 
 </div>
